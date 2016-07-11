@@ -1,0 +1,86 @@
+HTTrack3.48-22+htsswf+htsjava launched on Sat, 09 Jul 2016 11:02:36 at flood.tothong.com +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0c8H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" flood.tothong.com -O1 "\\Mac\Home\Downloads\My Web Sites\flood" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:06:18	Error: 	"Method Not Allowed" (405) at link flood.tothong.com/xmlrpc.php (from flood.tothong.com/)
+11:06:18	Error: 	"Forbidden" (403) at link flood.tothong.com/comments/feed/ (from flood.tothong.com/)
+11:06:18	Error: 	"Not Found" (404) at link flood.tothong.com/wp-json/ (from flood.tothong.com/)
+11:12:43	Warning: 	Retry after error -4 (Incorrect length (406361 Bytes, 571934 expected)) at link flood.tothong.com/wp-content/uploads/2011/11/finalreview.008.jpg (from flood.tothong.com/)
+11:12:43	Warning: 	file not stored in cache due to bogus state (broken size, expected 4650097 got 810079): flood.tothong.com/wp-content/uploads/2011/11/IMG_5347.jpg
+11:12:47	Warning: 	Moved Permanently for flood.tothong.com/?p=5
+11:12:47	Warning: 	File has moved from flood.tothong.com/?p=5 to http://flood.tothong.com/concept/
+11:12:47	Error: 	"Not Found" (404) at link flood.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fflood.tothong.com%2Fconcept%2F (from flood.tothong.com/concept/)
+11:12:47	Error: 	"Not Found" (404) at link flood.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fflood.tothong.com%2Fconcept%2F&format=xml (from flood.tothong.com/concept/)
+11:12:47	Warning: 	Moved Permanently for flood.tothong.com/?p=7
+11:12:47	Warning: 	File has moved from flood.tothong.com/?p=7 to http://flood.tothong.com/exploration/
+11:12:47	Error: 	"Not Found" (404) at link flood.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fflood.tothong.com%2Fexploration%2F (from flood.tothong.com/exploration/)
+11:12:47	Error: 	"Not Found" (404) at link flood.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fflood.tothong.com%2Fexploration%2F&format=xml (from flood.tothong.com/exploration/)
+11:12:47	Warning: 	Retry after error -4 (No data (connection closed)) at link flood.tothong.com/wp-content/uploads/2011/11/finalreview-copy.020.jpg (from flood.tothong.com/exploration/)
+11:12:47	Warning: 	Retry after error -4 (Incorrect length (810079 Bytes, 4650097 expected)) at link flood.tothong.com/wp-content/uploads/2011/11/IMG_5347.jpg (from flood.tothong.com/exploration/)
+11:13:06	Warning: 	file not stored in cache due to bogus state (broken size, expected 4447791 got 839279): flood.tothong.com/wp-content/uploads/2011/11/IMG_5342.jpg
+11:13:06	Warning: 	Retry after error -4 (Incorrect length (839279 Bytes, 4447791 expected)) at link flood.tothong.com/wp-content/uploads/2011/11/IMG_5342.jpg (from flood.tothong.com/exploration/)
+11:13:28	Warning: 	file not stored in cache due to bogus state (broken size, expected 4332324 got 945859): flood.tothong.com/wp-content/uploads/2011/11/IMG_5351.jpg
+11:13:28	Warning: 	Retry after error -4 (Incorrect length (945859 Bytes, 4332324 expected)) at link flood.tothong.com/wp-content/uploads/2011/11/IMG_5351.jpg (from flood.tothong.com/exploration/)
+11:13:28	Warning: 	Moved Permanently for flood.tothong.com/?p=9
+11:13:28	Warning: 	File has moved from flood.tothong.com/?p=9 to http://flood.tothong.com/realization/
+11:13:28	Error: 	"Not Found" (404) at link flood.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fflood.tothong.com%2Frealization%2F (from flood.tothong.com/realization/)
+11:13:28	Error: 	"Not Found" (404) at link flood.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fflood.tothong.com%2Frealization%2F&format=xml (from flood.tothong.com/realization/)
+11:13:28	Warning: 	Moved Permanently for flood.tothong.com/?p=11
+11:13:28	Warning: 	File has moved from flood.tothong.com/?p=11 to http://flood.tothong.com/proposal/
+11:13:28	Error: 	"Not Found" (404) at link flood.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fflood.tothong.com%2Fproposal%2F (from flood.tothong.com/proposal/)
+11:13:28	Error: 	"Not Found" (404) at link flood.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fflood.tothong.com%2Fproposal%2F&format=xml (from flood.tothong.com/proposal/)
+11:13:28	Warning: 	Moved Permanently for flood.tothong.com/?p=138
+11:13:28	Warning: 	File has moved from flood.tothong.com/?p=138 to http://flood.tothong.com/2011/12/06/us-reaction-on-ar-kongs-case/
+11:13:28	Error: 	"Not Found" (404) at link flood.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fflood.tothong.com%2F2011%2F12%2F06%2Fus-reaction-on-ar-kongs-case%2F (from flood.tothong.com/2011/12/06/us-reaction-on-ar-kongs-case/)
+11:13:28	Error: 	"Not Found" (404) at link flood.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fflood.tothong.com%2F2011%2F12%2F06%2Fus-reaction-on-ar-kongs-case%2F&format=xml (from flood.tothong.com/2011/12/06/us-reaction-on-ar-kongs-case/)
+11:13:28	Warning: 	Moved Permanently for flood.tothong.com/?p=122
+11:13:28	Warning: 	File has moved from flood.tothong.com/?p=122 to http://flood.tothong.com/2011/11/29/122/
+11:13:28	Error: 	"Not Found" (404) at link flood.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fflood.tothong.com%2F2011%2F11%2F29%2F122%2F (from flood.tothong.com/2011/11/29/122/)
+11:13:28	Error: 	"Not Found" (404) at link flood.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fflood.tothong.com%2F2011%2F11%2F29%2F122%2F&format=xml (from flood.tothong.com/2011/11/29/122/)
+11:13:28	Warning: 	Moved Permanently for flood.tothong.com/?p=113
+11:13:28	Warning: 	File has moved from flood.tothong.com/?p=113 to http://flood.tothong.com/2011/11/29/lese-majeste-in-thailand/
+11:13:28	Warning: 	Retry after error -4 (No data (connection closed)) at link flood.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fflood.tothong.com%2F2011%2F11%2F29%2Flese-majeste-in-thailand%2F (from flood.tothong.com/2011/11/29/lese-majeste-in-thailand/)
+11:13:28	Error: 	"Not Found" (404) at link flood.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fflood.tothong.com%2F2011%2F11%2F29%2Flese-majeste-in-thailand%2F&format=xml (from flood.tothong.com/2011/11/29/lese-majeste-in-thailand/)
+11:13:28	Warning: 	Moved Permanently for flood.tothong.com/?p=43
+11:13:28	Warning: 	File has moved from flood.tothong.com/?p=43 to http://flood.tothong.com/2011/11/20/water-incorperated-projects/
+11:13:29	Error: 	"Not Found" (404) at link flood.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fflood.tothong.com%2F2011%2F11%2F20%2Fwater-incorperated-projects%2F (from flood.tothong.com/2011/11/20/water-incorperated-projects/)
+11:13:29	Error: 	"Not Found" (404) at link flood.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fflood.tothong.com%2F2011%2F11%2F20%2Fwater-incorperated-projects%2F&format=xml (from flood.tothong.com/2011/11/20/water-incorperated-projects/)
+11:13:29	Warning: 	Retry after error -4 (No data (connection closed)) at link flood.tothong.com/tag/research/feed/ (from flood.tothong.com/tag/research/)
+11:13:29	Warning: 	Moved Permanently for flood.tothong.com/?p=40
+11:13:29	Warning: 	File has moved from flood.tothong.com/?p=40 to http://flood.tothong.com/2011/11/17/scrapyard-challenge-rube-goldberg-machine-post-apocalypse-data-visualization/
+11:13:29	Error: 	"Not Found" (404) at link flood.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fflood.tothong.com%2F2011%2F11%2F17%2Fscrapyard-challenge-rube-goldberg-machine-post-apocalypse-data-visualization%2F (from flood.tothong.com/2011/11/17/scrapyard-challenge-rube-goldberg-machine-post-apocalypse-data-visualization/)
+11:13:29	Error: 	"Not Found" (404) at link flood.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fflood.tothong.com%2F2011%2F11%2F17%2Fscrapyard-challenge-rube-goldberg-machine-post-apocalypse-data-visualization%2F&format=xml (from flood.tothong.com/2011/11/17/scrapyard-challenge-rube-goldberg-machine-post-apocalypse-data-visualization/)
+11:13:29	Warning: 	Moved Permanently for flood.tothong.com/?p=31
+11:13:29	Warning: 	File has moved from flood.tothong.com/?p=31 to http://flood.tothong.com/2011/11/17/inspiration-rube-goldberg-machine/
+11:13:29	Error: 	"Not Found" (404) at link flood.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fflood.tothong.com%2F2011%2F11%2F17%2Finspiration-rube-goldberg-machine%2F (from flood.tothong.com/2011/11/17/inspiration-rube-goldberg-machine/)
+11:13:29	Error: 	"Not Found" (404) at link flood.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fflood.tothong.com%2F2011%2F11%2F17%2Finspiration-rube-goldberg-machine%2F&format=xml (from flood.tothong.com/2011/11/17/inspiration-rube-goldberg-machine/)
+11:13:29	Warning: 	Moved Permanently for flood.tothong.com/?p=27
+11:13:29	Warning: 	File has moved from flood.tothong.com/?p=27 to http://flood.tothong.com/2011/11/17/thailand-flooding-2011/
+11:13:29	Error: 	"Not Found" (404) at link flood.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fflood.tothong.com%2F2011%2F11%2F17%2Fthailand-flooding-2011%2F (from flood.tothong.com/2011/11/17/thailand-flooding-2011/)
+11:13:29	Error: 	"Not Found" (404) at link flood.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fflood.tothong.com%2F2011%2F11%2F17%2Fthailand-flooding-2011%2F&format=xml (from flood.tothong.com/2011/11/17/thailand-flooding-2011/)
+11:13:29	Warning: 	Moved Permanently for flood.tothong.com/?p=73
+11:13:29	Warning: 	File has moved from flood.tothong.com/?p=73 to http://flood.tothong.com/2011/11/15/presentation-for-ideation-pre-concept-part/
+11:13:30	Error: 	"Not Found" (404) at link flood.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fflood.tothong.com%2F2011%2F11%2F15%2Fpresentation-for-ideation-pre-concept-part%2F (from flood.tothong.com/2011/11/15/presentation-for-ideation-pre-concept-part/)
+11:13:30	Error: 	"Not Found" (404) at link flood.tothong.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fflood.tothong.com%2F2011%2F11%2F15%2Fpresentation-for-ideation-pre-concept-part%2F&format=xml (from flood.tothong.com/2011/11/15/presentation-for-ideation-pre-concept-part/)
+11:13:32	Warning: 	Moved Temporarily for flood.tothong.com/wp-admin/
+11:13:32	Warning: 	File has moved from flood.tothong.com/wp-admin/ to http://flood.tothong.com/wp-login.php?redirect_to=http%3A%2F%2Fflood.tothong.com%2Fwp-admin%2F&reauth=1
+11:15:09	Warning: 	file not stored in cache due to bogus state (broken size, expected 4650097 got 1752960): flood.tothong.com/wp-content/uploads/2011/11/IMG_5347.jpg
+11:15:09	Warning: 	Retry after error -4 (Incorrect length (1752960 Bytes, 4650097 expected)) at link flood.tothong.com/wp-content/uploads/2011/11/IMG_5347.jpg (from flood.tothong.com/exploration/)
+11:15:22	Warning: 	file not stored in cache due to bogus state (broken size, expected 4447791 got 1793840): flood.tothong.com/wp-content/uploads/2011/11/IMG_5342.jpg
+11:15:22	Warning: 	Retry after error -4 (Incorrect length (1793840 Bytes, 4447791 expected)) at link flood.tothong.com/wp-content/uploads/2011/11/IMG_5342.jpg (from flood.tothong.com/exploration/)
+11:15:36	Warning: 	file not stored in cache due to bogus state (broken size, expected 4332324 got 1894580): flood.tothong.com/wp-content/uploads/2011/11/IMG_5351.jpg
+11:15:36	Warning: 	Retry after error -4 (Incorrect length (1894580 Bytes, 4332324 expected)) at link flood.tothong.com/wp-content/uploads/2011/11/IMG_5351.jpg (from flood.tothong.com/exploration/)
+11:17:09	Warning: 	file not stored in cache due to bogus state (broken size, expected 4650097 got 2730880): flood.tothong.com/wp-content/uploads/2011/11/IMG_5347.jpg
+11:17:09	Error: 	"Incorrect length (2730880 Bytes, 4650097 expected)" (-4) after 2 retries at link flood.tothong.com/wp-content/uploads/2011/11/IMG_5347.jpg (from flood.tothong.com/exploration/)
+11:17:16	Warning: 	file not stored in cache due to bogus state (broken size, expected 4447791 got 2757160): flood.tothong.com/wp-content/uploads/2011/11/IMG_5342.jpg
+11:17:16	Error: 	"Incorrect length (2757160 Bytes, 4447791 expected)" (-4) after 2 retries at link flood.tothong.com/wp-content/uploads/2011/11/IMG_5342.jpg (from flood.tothong.com/exploration/)
+11:17:20	Warning: 	file not stored in cache due to bogus state (broken size, expected 4332324 got 2836000): flood.tothong.com/wp-content/uploads/2011/11/IMG_5351.jpg
+11:17:20	Error: 	"Incorrect length (2836000 Bytes, 4332324 expected)" (-4) after 2 retries at link flood.tothong.com/wp-content/uploads/2011/11/IMG_5351.jpg (from flood.tothong.com/exploration/)
+11:17:20	Error: 	"Not Found" (404) at link flood.tothong.com/wp-admin/&reauth=1 (from flood.tothong.com/wp-login.php?redirect_to=http%3A%2F%2Fflood.tothong.com%2Fwp-admin%2F%26reauth=1)
+
+HTTrack Website Copier/3.48-22 mirror complete in 14 minutes 44 seconds : 178 links scanned, 124 files written (13556237 bytes overall) [21650143 bytes received at 24491 bytes/sec], 889612 bytes transferred using HTTP compression in 83 files, ratio 36%, 3.2 requests per connection
+(30 errors, 45 warnings, 0 messages)
